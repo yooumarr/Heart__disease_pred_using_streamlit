@@ -18,9 +18,9 @@ def heart_predict(input_data):
 
 
     if prediction[0] == 0:
-      return"The person is healthy"
+      return"Your heart is healthy"
     else:
-      return"The person is not healthy" 
+      return"Your heart is not healthy" 
       
       
 def main():
